@@ -147,39 +147,40 @@ Depending on the company, a user experience designer may need to be a jack of al
 The following details the responsibilities a user experience designer may have at each phase of a project:
 
 At the beginning, when the project is more conceptual:
-
-Ethnographic research
-Surveying
-Customer feedback and testing
-Focus group administration
-Non-directed interview
-Contextual Interview
-Mental modeling
-Flow charts
-Mood boards
-Card sorting
-Competitive analysis
-Contextual Inquiry
-While the project is underway:
-
-Wireframing
-Heuristic analysis
-Expert evaluation
-Pluralistic walkthrough
-Personas
-Scenario
-Prototypes
-System mapping
-Experience mapping
-User testing/usability testing
+<ul style="list-style-type:circle">
+ <li>Ethnographic research</li>
+ <li>Surveying</li>
+ <li>Customer feedback and testing</li>
+ <li>Focus group administration</li>
+ <li>Non-directed interview</li>
+ <li>Contextual Interview</li>
+ <li>Mental modeling</li>
+ <li>Flow charts</li>
+ <li>Mood boards</li>
+ <li>Card sorting</li>
+ <li>Competitive analysis</li>
+ <li>Contextual Inquiry</li>
+</ul>
+While the project is ongoing 
+<ul style="list-style-type:circle">
+ <li>Wireframing</li>
+ <li>Heuristic analysis</li>
+ <li>Expert evaluation</li>
+ <li>Pluralistic walkthrough</li>
+ <li>Personas</li>
+ <li>Scenario</li>
+ <li>Prototypes</li>
+ <li>System mapping</li>
+ <li>Experience mapping</li>
+ <li>User testing/usability testing</li>
+</ul>
 After the project has launched:
-
-User testing/usability testing
-A/B testing
-Additional wireframing as a result of test results and fine-tuning[24]
+<ul style="list-style-type:circle">
+ <li>User testing/usability testing</li>
+ <li>A/B testing</li>
+ <li>Additional wireframing as a result of test results and fine-tuning</li>
+</ul>
 Designers
-
-This section does not cite any sources. Please help improve this section by adding citations to reliable sources. Unsourced material may be challenged and removed. (July 2015) (Learn how and when to remove this template message)
 As with the fields mentioned above, user experience design is a highly multi-disciplinary field, incorporating aspects of psychology, anthropology, architecture, sociology, computer science, graphic design, industrial design, cognitive science, and business. Depending on the purpose of the product, UX may also involve content design disciplines such as communication design, instructional design, and game design. The subject matter of the content may also warrant collaboration with a subject-matter expert on planning the UX from various backgrounds in business, government, or private groups. More recently, content strategy has come to represent a sub-field of UX.
 
 Graphic designers
