@@ -9,10 +9,10 @@ From Wikipedia, the free encyclopedia
 
 User experience design (UX, UXD, UED or XD) is the process of enhancing user satisfaction with a product by improving the usability, accessibility, and pleasure provided in the interaction with the product.[1] User experience design encompasses traditional human–computer interaction (HCI) design, and extends it by addressing all aspects of a product or service as perceived by users.[2]
 
-
 Contents
-1	History
-2	Elements
+<ol style="list-style-type:1">
+History
+Elements
 2.1	Visual design
 2.2	Information architecture
 2.2.1	Structuring, organization, and labeling
@@ -36,6 +36,8 @@ Contents
 8	See also
 9	References
 10	Further reading
+<ol>
+ 
 History
 The field of user experience design is a conceptual design discipline and has its roots in human factors and ergonomics, a field that, since the late 1940s, has focused on the interaction between human users, machines, and the contextual environments to design systems that address the user's experience.[3] With the proliferation of workplace computers in the early 1990s, user experience started to become a concern for designers. It was Donald Norman, a user experience architect, who coined the term "user experience", and brought it to a wider audience.[4]
 
