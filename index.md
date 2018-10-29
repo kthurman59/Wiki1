@@ -208,27 +208,27 @@ Expediting design and development through detailed and properly conceived guidel
 Incorporating business and marketing goals while protecting the user's freedom of choice
 See also
 <ul>
-Action research
-Activity-centered design
-Chief experience officer (CXO)
-Component-based usability testing
-Contextual inquiry
-Customer experience
-Design thinking
-Empathic design
-Needs analysis
-Paper prototyping
-Participatory design
-Process-centered design
-Thanatosensitivity
-Transgenerational design
-Ubiquitous computing
-Usability engineering
-User-design
-User experience evaluation
-User interface design
-World Usability Day
-List of buzzwords
+ <li>Action research</li>
+ <li>Activity-centered design</li>
+ <li>Chief experience officer (CXO)</li>
+ <li>Component-based usability testing</li>
+ <li>Contextual inquiry</li>
+ <li>Customer experience</li>
+ <li>Design thinking</li>
+ <li>Empathic design</li>
+ <li>Needs analysis</li>
+ <li>Paper prototyping</li>
+ <li>Participatory design</li>
+ <li>Process-centered design</li>
+ <li>Thanatosensitivity</li>
+ <li>Transgenerational design</li>
+ <li>Ubiquitous computing</li>
+ <li>Usability engineering</li>
+ <li>User-design</li>
+ <li>User experience evaluation</li>
+ <li>User interface design</li>
+ <li>World Usability Day</li>
+ <li>List of buzzwords</li>
 </ul>
     </body>
     </html>
