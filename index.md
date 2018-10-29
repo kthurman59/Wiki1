@@ -1,3 +1,9 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <title>User Design</title>
+ </head>
+  <body>
 User experience design
 From Wikipedia, the free encyclopedia
 
@@ -224,3 +230,5 @@ User interface design
 World Usability Day
 List of buzzwords
 </ul>
+    </body>
+    </html>
